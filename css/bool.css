@@ -4,5 +4,30 @@ body {
 }
 
 header {
-    background-color: azure;
+    background-color: rgb(47, 151, 231);
+    height: 100px;
+    background-image: url();
+}
+
+.logo {
+    position: absolute;
+    height: 50px;
+    margin: 20px;
+}
+
+#booleaner {
+    color: blue;
+}
+
+.title {
+    background-color: rgba(0, 106, 255, 0.611);
+    color: white;
+}
+
+.line-1 {
+    background-color: rgb(187, 187, 188);
+}
+
+.line-3 {
+    background-color: rgb(187, 187, 188)
 }
